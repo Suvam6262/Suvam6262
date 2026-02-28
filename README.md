@@ -1,12 +1,83 @@
-- 👋 Hi, I’m Suvendu.
-- 👀 I’m interested in building dynamic, user-focused websites and exploring new web technologies.
-- 🌱 I’m currently learning advanced front-end development and exploring back-end technologies.
-- 💞️ I’m looking to collaborate on creative web projects, interactive designs, and anything that pushes the boundaries of user experience.
-- 📫 You can find me on (https://www.linkedin.com/in/suvendumahapatra/) or drop me an email at suvendumahapatra69@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can build a website while simultaneously perfecting my coffee making skills - it's a multi-tasking masterpiece!
+# Hi, I'm Suvendu Mahapatra 👋
 
-<!---
-Suvam6262/Suvam6262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Developer building responsive, user-friendly web applications using modern frontend technologies.
+
+---
+
+## Connect with Me
+
+<a href="https://linkedin.com/in/suvendumahapatra">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:suvendumahapatra69@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://suvendumportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
+</a>
+
+---
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,wordpress" />
+
+---
+
+## Featured Projects
+
+### Portfolio Website  
+https://suvendumportfolio.netlify.app/
+
+### Tic Tac Toe Game  
+https://suvam6262.github.io/Tic-Tac-Toe/
+
+### Rock Paper Scissor Game  
+https://suvam6262.github.io/Rock-Paper-Scissor/
+
+
+---
+
+## Currently Learning
+
+- React (Advanced Concepts)  
+- Modern Frontend Development  
+- Performance Optimization  
+
+---
+
+
+## Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Suvam6262&color=blue" />
+
+---
+
+## About Me
+
+Frontend Developer with hands-on experience building responsive websites and interactive UI components.
+
+Strong skills in:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Responsive Design
+- API Integration
+- Git & GitHub
+- WordPress
+
+Focused on becoming a professional React Developer.
+
+---
+
+## Opportunities
+
+Open to:
+
+- Frontend Developer roles  
+- Junior Frontend Developer roles  
+- Internship opportunities  
